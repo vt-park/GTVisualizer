@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: beige;
+}
+
+header {
+  background-color: skyblue;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.menu-box {
+  display: block;
+  background-color: limegreen;
+  color: white;
+  padding: 10px;
+  margin: 5px 0;
+  text-decoration: none;
+  text-align: center;
+}
+
+.menu-box:hover {
+  background-color: greenyellow;
+}
