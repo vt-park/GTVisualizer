@@ -1,6 +1,5 @@
 ### Group Theory Visualizer
-Visualizes concepts from my Abstract Algebra class, still being worked on
-
+Visualizes concepts from my Abstract Algebra class (work in progress)
 
 Live demo:
 
